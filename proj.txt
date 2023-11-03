@@ -1,0 +1,6 @@
+#!/bin/bash
+645 Tim 99 JnJ 0866060606
+102 Naomi 70 Janssen 0833030303
+345 Kim 30 Roche 0877070707
+409 Jim 93 Takeda 0899090909
+809 Giuseppe 85 Almac 0855050505
